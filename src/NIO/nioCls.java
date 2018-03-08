@@ -1,7 +1,6 @@
 package NIO;
 /**
  * 
- * 描   述 TODO
  * 说   明 TODO
  * 
  * 开发者 C.J
