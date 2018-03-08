@@ -1,7 +1,9 @@
 package lang;
 
 import java.lang.annotation.Annotation;
-
+/**
+author:cj
+*/
 @City(value = { "Î÷°²", "Îäºº", }, username = "CJ")
 @UserInfo(age = 28, sex = UserInfo.SexEnum.ÄÐ, username = "CJ", data = "2017.9.2 15:03")
 public class Test {
